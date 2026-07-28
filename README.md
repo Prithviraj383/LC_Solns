@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prithviraj383/LC_Solns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
