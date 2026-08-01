@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prithviraj383/LC_Solns/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
+| [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
