@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Prithviraj383/LC_Solns/tree/master/0127-word-ladder) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prithviraj383/LC_Solns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Prithviraj383/LC_Solns/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Prithviraj383/LC_Solns/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
