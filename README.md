@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prithviraj383/LC_Solns/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
