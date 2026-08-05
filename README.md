@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Prithviraj383/LC_Solns/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -78,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Prithviraj383/LC_Solns/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
