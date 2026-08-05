@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Prithviraj383/LC_Solns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prithviraj383/LC_Solns/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prithviraj383/LC_Solns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prithviraj383/LC_Solns/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
