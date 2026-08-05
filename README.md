@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
