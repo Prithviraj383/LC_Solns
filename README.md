@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Prithviraj383/LC_Solns/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Prithviraj383/LC_Solns/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prithviraj383/LC_Solns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Prithviraj383/LC_Solns/tree/master/0130-surrounded-regions) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Prithviraj383/LC_Solns/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Prithviraj383/LC_Solns/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prithviraj383/LC_Solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/Prithviraj383/LC_Solns/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -108,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prithviraj383/LC_Solns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Prithviraj383/LC_Solns/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
